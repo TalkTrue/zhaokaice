@@ -1,0 +1,32 @@
+{
+    "name": "talktrue/zhaokaice",
+    "version": "1.0.0",
+    "description": "zhaokai Test",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "zhaokai"
+    ],
+    "authors": [
+        {
+            "name": "talktrue",
+            "email": "705219520@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zhaokai\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "zhaokai\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {
+        "php": "^8.1"
+    }
+}
